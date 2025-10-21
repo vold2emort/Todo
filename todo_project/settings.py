@@ -133,7 +133,7 @@ REST_FRAMEWROK = {
     ]
 }
 
-CORS_ORIGIN_WHITElIST = (
+CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
     'http://localhost:8000',
 )
